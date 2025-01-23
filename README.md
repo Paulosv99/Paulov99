@@ -1,3 +1,4 @@
+Bem-vindo(a) ao perfil do Paulo Vieira 😁
 <div>
    <a href="https://github.com/Paulosv99">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulosv99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
